@@ -1,0 +1,5 @@
+/datum/sprite_accessory/marking/nabber
+	name = "Discolouration Bands"
+	icon_state = "discolouration"
+	icon = 'icons/mob/human_races/species/nabber/Discolouration Bands.dmi'
+	species_allowed = list(SPECIES_NABBER)
