@@ -314,7 +314,7 @@
 	cold_level_2 = -1
 	cold_level_3 = -1
 
-	heat_level_1 = 3000
+	heat_level_1 = 3500
 	heat_level_2 = 4000
 	heat_level_3 = 5000
 
